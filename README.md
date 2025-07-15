@@ -2,7 +2,7 @@
 Aim: To study and implement different types of operators in C++ by,        
 Determine if a number is positive, negative, or zero.        
 Calculate average marks and assign grades.
-Identify the coordinate quadrant of a point
+Identify the coordinate quadrant of a point.
 
 Apparatus:
 GNU g++ compiler (for local execution)Any code editor or an Online C++ Compiler
