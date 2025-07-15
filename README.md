@@ -1,5 +1,5 @@
 # Operators-in-Cpp
-Aim: To study and implement different types of operators in C++ through conditional checks,
+Aim: To study and implement different types of operators in C++ by,        
 Determine if a number is positive, negative, or zero.
 Calculate average marks and assign grades.
 Identify the coordinate quadrant of a point
