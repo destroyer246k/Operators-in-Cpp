@@ -5,10 +5,9 @@ Calculate average marks and assign grades.
 Identify the coordinate quadrant of a point.
 
 Tools:
-GNU g++ compiler (for local execution)Any code editor or an Online C++ Compiler)
-Theory:              
-## What are Operators?
-
+GNU g++ compiler (for local execution)Any code editor or an Online C++ Compiler)        
+# Theory:              
+ What are Operators?                  
 C++ provides operators, which come in different forms such as symbols or keywords. Operators manipulate data and evaluate expressions. Operators are given definitions based on the type of operation they perform such as **arithmetic operators, logical operators, relational operators**, etc.
 
 ### Arithmetic Operators
