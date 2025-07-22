@@ -4,8 +4,22 @@ Determine if a number is positive, negative, or zero.
 Calculate average marks and assign grades.
 Identify the coordinate quadrant of a point.
 
-Apparatus:
+Tools:
 GNU g++ compiler (for local execution)Any code editor or an Online C++ Compiler)
+Theory:              
+## What are Operators?
+
+C++ provides operators, which come in different forms such as symbols or keywords. Operators manipulate data and evaluate expressions. Operators are given definitions based on the type of operation they perform such as **arithmetic operators, logical operators, relational operators**, etc.
+
+### Arithmetic Operators
+Arithmetic operators combined two or more numbers using a variety of mathematical techniques such as **adding, subtracting, multiplying**, etc. The basic number types for arithmetic operators are +,-,*,/,%. The arithmetic operators are often used in programming whenever calculations, evaluations, or iterative mathematics are required, such as **financial computations, scientific simulations, or video games**.
+
+### Relational Operators
+Relational operators are used in programming to **compare two objects or expressions to know their position**. Relational operators will return one of two boolean values (**true or false**) based on the relationship of the two evaluated values. These are <,>,==,!=,=>,=<.Relational operators are one of the more important operators because they assist in **program flow**, via aspects of **condition-based statements such as if, while or for statements**. Relational operators can be used to ascertain **equality, relationship such as ordering,when checking for specific criteria**.
+
+### Logical Operators
+Logical operators are similar to relational operators because they typically deal with **multiple conditions or invert their presentations**, and are more common in **decision-making approaches to programming**. These are AND(&&),OR(||),NOT(!) Logical operators deal only with **boolean values** and determine how multiple complex conditions are evaluated. Logical operators are useful for constructing **multi-condition checks and conjunctions**, such as determining if **multiple criteria converge before completing a task**, or even **inverting the outcome of a logical condition to introduce additional logic to your program**.
+
 
 # Program 1: Check if a Number is Positive, Negative, or Zero     
 This program example illustrates the application of relational operators (>, <, ==) along with conditional statements (if, else if, else)   
