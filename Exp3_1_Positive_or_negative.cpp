@@ -22,3 +22,11 @@ int main()
     }
     return 0;
 }
+/*
+output:
+Enter Number: 4
+Entered Number is 4 and is Positive
+
+Enter Number: 5
+Entered Number is 5 and is Positive
+*/
