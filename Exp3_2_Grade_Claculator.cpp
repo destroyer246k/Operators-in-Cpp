@@ -47,3 +47,12 @@ int main()
     }
     return 0;
 }
+/*
+output:
+Enter Marks of DCLD: 90
+Enter Marks of EDC: 80
+Enter Marks of NT: 80
+Enter Marks of MTT: 77
+Enter Marks of SS: 80
+Your Marks Average are: 81 Grade is A 
+*/
