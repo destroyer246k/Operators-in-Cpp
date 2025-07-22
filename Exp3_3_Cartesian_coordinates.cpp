@@ -40,3 +40,42 @@ int main() {
     }
 return 0;
 }
+
+/*
+output:
+Enter X Coordinate:3
+Enter Y Coordinate:4
+It is in First Quadrant
+
+Enter X Coordinate:-5
+Enter Y Coordinate:3
+It is in Second Quadrant
+
+Enter X Coordinate:-4
+Enter Y Coordinate:-5
+It is in Third Quadrant
+
+Enter X Coordinate:5
+Enter Y Coordinate:-4
+It is in Fourth Quadrant
+
+Enter X Coordinate:0
+Enter Y Coordinate:7
+Y axis
+
+Enter X Coordinate:0
+Enter Y Coordinate:-6
+Y axis
+
+Enter X Coordinate:8
+Enter Y Coordinate:0
+X axis
+
+Enter X Coordinate:-9
+Enter Y Coordinate:0
+X axis
+
+Enter X Coordinate:0
+Enter Y Coordinate:0
+On Origin
+*/
