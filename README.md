@@ -17,6 +17,14 @@ Zero: If the integer is exactly zero.
 
 In this example, the program prompts the user for a number input and evaluates the condition utilizing simple comparisons. Depending on the result of the evaluation, an appropriate output is shown indicating either a positive, negative, or zero result.
 
+Algorithm:
+1. Start
+2. Input number num
+3. If num > 0, print "Positive"
+4. Else if num < 0, print "Negative"
+5. Else, print "Zero"
+6. End
+
 # Program 2: Calculate Average Marks and Display Grade    
 For this program, the user will input marks for subjects - DCLD, EDC, NT, MTT, SS. Then the program will calculate the average marks with an arithmetic operator / and find the resulting grade given average marks.
 
@@ -35,6 +43,18 @@ Relational Operators - to compare the average to a grade.
 Logical Operators (&&, ||) - to evaluate combined conditions (eg between).  
 Conditional Statements - to return the grade.   
 This enables learners to practice arithmetic calculations, data validation and combining multiple conditions in order to create meaningful output with diffrent secnarios.
+
+Algorithm:               
+1. Start.   
+2. Input marks for 5 subjects.    
+3. Calculate average = total / 5.  
+4. If average < 0 or > 100 → print "Invalid input"    
+5. Else if average > 90 → print "O Grade"    
+6. Else if average ≥ 81 → print "A+ Grade"   
+7. Else if average ≥ 71 → print "A Grade"    
+8. Else if average ≥ 61 → print "B Grade"   
+9. Else if average ≥ 51 → print "C Grade"    
+10. Else → print "Fail"
 
 # Program 3: Determine Coordinate Quadrant    
 In this program, the user will enter X and Y coordinates and the program will determine in which quadrant the point lies on the Cartesian plane. The program will also ascertain whether the user enters a point that is on the X-axis, Y-axis or the origin (0,0). 
@@ -55,6 +75,18 @@ Conditional statements: to classify each unique situation I used nested if, else
 
 
 This explains how to do evaluation with multiple conditions in which both comparison and logical operators are used together to complete groupings of comparisons to come to a decision. We also include special circumstances where the point goes directly to an axis or the origin; both of these points are not in any quadrant specific.
+
+Algorithm:
+1. Start.          
+2. Input x and y.       
+3. If x > 0 and y > 0 → print "1st Quadrant"     
+4. Else if x < 0 and y > 0 → print "2nd Quadrant"      
+5. Else if x < 0 and y < 0 → print "3rd Quadrant"      
+6. Else if x > 0 and y < 0 → print "4th Quadrant"     
+7. Else if x == 0 and y != 0 → print "Y-axis"       
+8. Else if y == 0 and x != 0 → print "X-axis"       
+9. Else → print "Origin"     
+10. End.    
 
 Conclusion:     
 Each of these programs demonstrates practical applications of operators in C++:     
