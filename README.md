@@ -5,7 +5,7 @@ Calculate average marks and assign grades.
 Identify the coordinate quadrant of a point.
 
 Apparatus:
-GNU g++ compiler (for local execution)Any code editor or an Online C++ Compiler
+GNU g++ compiler (for local execution)Any code editor or an Online C++ Compiler)
 
 # Program 1: Check if a Number is Positive, Negative, or Zero     
 This program example illustrates the application of relational operators (>, <, ==) along with conditional statements (if, else if, else)   
